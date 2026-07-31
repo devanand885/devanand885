@@ -196,16 +196,6 @@ Gained hands-on experience in machine learning concepts and real-world applicati
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=devanand885&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
