@@ -212,8 +212,6 @@ Gained hands-on experience in machine learning concepts and real-world applicati
 
 <img src="https://raw.githubusercontent.com/devanand885/devanand885/main/profile/pacman.svg" width="100%"/>
 
-<sub>A standalone arcade-style animation — just for fun, not tied to any contribution data.</sub>
-
 </div>
 
 ---
