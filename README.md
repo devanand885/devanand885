@@ -186,6 +186,12 @@ Gained hands-on experience in machine learning concepts and real-world applicati
 ## GitHub Analytics
 
 <div align="center">
+  <img src="./stats-card.svg" alt="GitHub Live Stats" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/devanand885/devanand885/main/profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=devanand885&theme=radical&hide_border=true&background=0d1b2a&stroke=e63946&ring=1d3557&fire=e63946&currStreakLabel=e63946" width="49%"/>
